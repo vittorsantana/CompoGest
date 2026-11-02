@@ -1,0 +1,9 @@
+br\com\compotree\api\ProdutoController$Componente.class
+br\com\compotree\api\ProdutoController.class
+br\com\compotree\api\ProdutoController$ComponenteEntrada.class
+br\com\compotree\api\ProdutoController$Produto.class
+br\com\compotree\api\ProdutoController$ProdutoEntrada.class
+br\com\compotree\api\ProdutoController$Explosao.class
+br\com\compotree\api\ProdutoController$Insumo.class
+br\com\compotree\api\ProdutoController$PrecoEntrada.class
+br\com\compotree\api\ProdutoController$No.class
